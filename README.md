@@ -41,7 +41,7 @@ It shows the following screen in which the option Google can be selected:
 ![image](https://github.com/user-attachments/assets/b208083b-db11-4010-ac70-501986f2571f)
 
 SET starts my Kali Linux Webserver on port 80, with the fake Google account login page. The setup is done:
-![280444543-cdff94c7-af85-4bd4-b076-26cf1651a673](https://github.com/user-attachments/assets/c33d8aeb-948f-4370-bb1f-53ad0d95a113)
+<img width="1014" height="543" alt="Screenshot 2025-10-10 135926" src="https://github.com/user-attachments/assets/42454af7-0caf-46af-aeaa-e684b96ff2a8" />
 
 In windows IE, on giving the url http://192.168.1.2, the fake Google page is displayed. The victim can enter the username and password
 
